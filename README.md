@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in making money 
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning my lesson
 
 <!---
 bcw11/bcw11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
